@@ -1,4 +1,4 @@
-package top.qcxiao.palindrome;
+package top.qcxiao.leetcode.palindrome;
 
 /**
  * @title 方法1：中心扩散法

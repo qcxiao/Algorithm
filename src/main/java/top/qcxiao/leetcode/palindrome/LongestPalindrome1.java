@@ -1,4 +1,4 @@
-package top.qcxiao.palindrome;
+package top.qcxiao.leetcode.palindrome;
 
 /**
  * @title 方法1：暴力求解

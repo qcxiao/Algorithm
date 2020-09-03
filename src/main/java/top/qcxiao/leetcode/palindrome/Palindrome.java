@@ -1,4 +1,4 @@
-package top.qcxiao.palindrome;
+package top.qcxiao.leetcode.palindrome;
 
 
 /**

@@ -1,4 +1,4 @@
-package top.qcxiao.leetcode;
+package top.qcxiao.leetcode.TwoSum;
 
 import java.util.Arrays;
 import java.util.HashMap;
