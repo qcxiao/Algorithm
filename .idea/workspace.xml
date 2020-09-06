@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ce4b290-4167-4dd8-80d7-9c1600b31f91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/qcxiao/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/qcxiao/leetcode/TwoSum/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/qcxiao/palindrome/LongestPalindrome1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/qcxiao/leetcode/palindrome/LongestPalindrome1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/qcxiao/palindrome/LongestPalindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/qcxiao/leetcode/palindrome/LongestPalindrome2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/qcxiao/palindrome/LongestPalindrome3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/qcxiao/leetcode/palindrome/LongestPalindrome3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/qcxiao/palindrome/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/qcxiao/leetcode/palindrome/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/qcxiao/leetcode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/qcxiao/palindrome/LongestPalindrome1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/qcxiao/palindrome/LongestPalindrome2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/qcxiao/palindrome/LongestPalindrome3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top/qcxiao/palindrome/Palindrome.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +42,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/ConsortiumBlockchain/PIdentity-Server" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../devops/onedev" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -53,7 +54,7 @@
       <recent name="sort" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.LongestPalindrome1">
     <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.qcxiao.sort.InsertSort" />
       <module name="Algorithm" />
@@ -121,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.LongestPalindrome1" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.LongestPalindrome3" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.InsertSort" />
@@ -166,7 +167,7 @@
       <workItem from="1596505534616" duration="1217000" />
       <workItem from="1597298544761" duration="1232000" />
       <workItem from="1597715888339" duration="10000" />
-      <workItem from="1599104784600" duration="245000" />
+      <workItem from="1599104784600" duration="7426000" />
     </task>
     <servers />
   </component>
@@ -190,26 +191,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="398" height="438" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1590566986530" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1596536634820">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1599117789880">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596536634820" />
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1594900636704">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1599117789880" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1599105291643">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594900636704" />
-    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1594900636704">
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599105291643" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1599105291643">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594900636704" />
-    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1594900636704">
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1599105291643" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1599105291642">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594900636704" />
-    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1594900636704">
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1599105291642" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1599105291643">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594900636704" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1599105291643" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1594900636704">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -226,10 +227,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594900636704" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1594900164715">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1599105286298">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594900164715" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599105286298" />
     <state x="470" y="44" key="refactoring.ChangeSignatureDialog" timestamp="1590667042258">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
